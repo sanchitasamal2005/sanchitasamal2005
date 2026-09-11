@@ -30,7 +30,7 @@
 
 ###
 
-<p data-importer="text" align="left">🎓 I’m a 2nd-year B.Tech CSE-AIML student from Centurion University of Technology and Management.<br>💻 I’m interested in Artificial Intelligence, Machine Learning, Web Development, and Data Analytics.<br>🌱 I’m currently learning Python, Java, Data Structures, Machine Learning, and building projects.<br>📸 In my free time, I enjoy photography, video editing, and exploring creative ideas.<br>🚀 I’m always curious to learn new technologies and turn ideas into practical projects.</p>
+<p data-importer="text" align="left">🎓 I’m a 3rd-year B.Tech CSE-AIML student from Centurion University of Technology and Management.<br>💻 I’m interested in Artificial Intelligence, Machine Learning, Web Development, and Data Analytics.<br>🌱 I’m currently learning Python, Java, Data Structures, Machine Learning, and building projects.<br>📸 In my free time, I enjoy photography, video editing, and exploring creative ideas.<br>🚀 I’m always curious to learn new technologies and turn ideas into practical projects.</p>
 
 ###
 
